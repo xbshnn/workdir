@@ -1,7 +1,9 @@
 Part II: Status Update
 What is the plan for the this week?
-1.	周志华的《机器学习》相关部分【1-13章】
-
+1.	集合论学完之后接着学概率论知识
+2.	熟悉vim快捷键
+3.	阅读VAE的教学文献
+4.	阅读keras官网文档，网络允许希望可以实操
 
 
 What I have learned since last week?
@@ -27,7 +29,8 @@ What I find fun and may worth further thinking?
 
 
 What is my plan for the next week?
-1.	熟悉vim快捷键
-2.	阅读keras官网文档，网络允许希望可以实操
-3.  了解概率图模型
+1.	ATAC-seq数据处理过程，之前发现一个网站有介绍，打算认真看看：https://qiubio.com/new/book/chapter-06
+2.	学习pytorch工具以及阅读、理解文献的代码
+3.	进行keras网络实操，打算选取《跟我学深度学习》这本书进行。
+
 
